@@ -1,6 +1,6 @@
 # Task Management System
 
-This is a simple task management system implemented in Python. It allows users to register, log in, add tasks, view tasks, and display statistics. Tasks are stored in a text file (`tasks.txt`) and user information is stored in another text file (`user.txt`).
+This is a simple task management system implemented in Python. It allows users to register, log in, add tasks, view tasks, generate reports, and display statistics. Tasks are stored in a text file (`tasks.txt`) and user information is stored in another text file (`user.txt`).
 The default username and password have been initially set to 'admin and 'password', respectively.
 
 ## Features
